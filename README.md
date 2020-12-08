@@ -1,4 +1,3 @@
-# -info2180-lab4
+# AJAX Superheroes Starter Files
 
-
-This is Lab 4 for Delano Barclay-
+This is Labb 4 for Delano Barclay
